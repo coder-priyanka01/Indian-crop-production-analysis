@@ -7,7 +7,7 @@ The aim is to understand production trends, state-wise performance, and correlat
 
 The dataset contains detailed information about crop yields (in 1000 tons), spanning several decades and multiple crop categories such as Rice, Wheat, Maize, Sugarcane, Cotton, and Pulses.
 
-🎯 Objectives
+🎯Objectives
 
 . To explore and clean real-world agricultural data.
 
